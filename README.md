@@ -1,4 +1,5 @@
 Context: The dataset includes attributes such as title, director, cast, country, release year, rating, and content type. This dataset is suitable for analysis because it contains over 8,000 rows and multiple categorical and numerical fields, making it ideal for descriptive analytics, visualization, and pattern exploration.
+
 Dataset: Netflix Movies and TV Shows: https://www.kaggle.com/shivamb/netflix-shows
 Objectives: 
 - What types of content (Movies vs TV Shows) dominate the platform?
